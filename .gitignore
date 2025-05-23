@@ -1,0 +1,10 @@
+# Ignorar ambiente virtual
+ml_proj/
+venv/
+
+# Ignorar datasets grandes (se aplicável)
+data/
+
+
+# Ignorar arquivos do sistema
+.DS_Store
